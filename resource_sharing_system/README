@@ -1,0 +1,20 @@
+About the Project :
+
+This project is an AI-powered private resource sharing platform designed to simplify how users upload, search, and retrieve relevant 
+study materials within a closed community. It uses Natural Language Processing (NLP) techniques to enable context-aware search rather than relying on 
+basic keyword matching. Users can upload documents, enter natural-language queries, and receive the most relevant resources based on semantic similarity. 
+A simple web interface makes it easy to interact with the system, while cloud integration ensures data is stored securely and can be accessed in real-time.
+
+Tech Stack :
+
+Python – Core programming language used for backend development, NLP processing, and integration.
+Scikit-learn & NLTK – Used for TF-IDF vectorization, cosine similarity, and basic question-answering features.
+Gradio – Provides a lightweight and interactive web interface for file uploads and search queries.
+Firebase – Handles real-time storage and retrieval of uploaded files and associated metadata.
+
+Use Cases :
+
+Academic groups or university departments sharing notes, assignments, and research papers.
+Organizations building internal knowledge bases for easy resource discovery.
+Research teams collaborating on shared documentation with intelligent search.
+Online learning communities offering AI-enhanced access to content libraries.
