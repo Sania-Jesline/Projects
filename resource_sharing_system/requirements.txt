@@ -1,0 +1,7 @@
+gradio 
+requests 
+torch 
+numpy 
+transformers 
+scikit-learn 
+firebase-admin
